@@ -26,7 +26,7 @@ COOR&S // [GitHub](https://github.com/icwong/CoopR-S) + [Heroku](http://cooprs.h
 
 Diamond Treasure Hunter Game // [GitHub](https://github.com/icwong/PythonProjects/blob/master/DiamondTreasureHunter.py)
 
-## Favorite Educational Materials
+## Favorite Educational Articles
 
 Data analytics have made the NBA unrecognizable // [Quartz](https://qz.com/1104922/data-analytics-have-revolutionized-the-nba/)
 
