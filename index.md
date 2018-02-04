@@ -21,15 +21,15 @@ QA Automation Engineer Intern // Java, Selenium, JMeter
 
 ## Sample Projects
 
-<span style="color: #A23E48; font-weight: bold">[React-Native]</span> CryptoCurrency Comparison Analysis App // [GitHub](https://github.com/icwong/CryptocurrencyApp)
+CryptoCurrency Comparison Analysis App // [GitHub](https://github.com/icwong/CryptocurrencyApp) // <span style="color: #A23E48; font-weight: bold">React-Native</span>
 
-<span style="color: #FF8C42; font-weight: bold">[Java + Android Studio]</span> Text Recognition Flash Card Maker App // [GitHub 2](https://github.com/icwong/AndroidTextRecognitionApp) + [GitHub 2](https://github.com/icwong/AndroidQuizApp)
+Text Recognition Flash Card Maker App // [GitHub 2](https://github.com/icwong/AndroidTextRecognitionApp) + [GitHub 2](https://github.com/icwong/AndroidQuizApp) // <span style="color: #FF8C42; font-weight: bold">Java + Android Studio</span>
 
-<span style="color: #9F86C0; font-weight: bold">[Python + Pandas + Scikit-Learn]</span> Machine Learning Weather Prediction // [GitHub](https://github.com/icwong/weather-observation)
+Machine Learning Weather Prediction // [GitHub](https://github.com/icwong/weather-observation) // <span style="color: #9F86C0; font-weight: bold">Python + Pandas + Scikit-Learn</span>
 
-<span style="color: #F45B69; font-weight: bold">[Ruby on Rails]</span>  COOR&S // [GitHub](https://github.com/icwong/CoopR-S) + [Heroku](http://cooprs.herokuapp.com/)
+COOR&S // [GitHub](https://github.com/icwong/CoopR-S) + [Heroku](http://cooprs.herokuapp.com/) // <span style="color: #F45B69; font-weight: bold">Ruby on Rails</span>
 
-<span style="color: #E0B1CB; font-weight: bold">[Python]</span> Diamond Treasure Hunter Game // [GitHub](https://github.com/icwong/PythonProjects/blob/master/DiamondTreasureHunter.py)
+Diamond Treasure Hunter Game // [GitHub](https://github.com/icwong/PythonProjects/blob/master/DiamondTreasureHunter.py) // <span style="color: #E0B1CB; font-weight: bold">Python</span>
 
 ## Favorite Educational Articles
 
