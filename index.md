@@ -23,11 +23,11 @@ QA Automation Engineer Intern // Java, Selenium, JMeter
 
 [React-native] CryptoCurrency Comparison Analysis App // [GitHub](https://github.com/icwong/CryptocurrencyApp)
 
-[Java / Android Studio] Text Recognition Flash Card Maker App// [GitHub 2](https://github.com/icwong/AndroidTextRecognitionApp) + [GitHub 2](https://github.com/icwong/AndroidQuizApp)
+[Java / Android Studio] Text Recognition Flash Card Maker App // [GitHub 2](https://github.com/icwong/AndroidTextRecognitionApp) + [GitHub 2](https://github.com/icwong/AndroidQuizApp)
 
 [Python / Pandas / Scikit-Learn] Machine Learning Weather Prediction // [GitHub](https://github.com/icwong/weather-observation)
 
-[Ruby on Rails ] COOR&S // [GitHub](https://github.com/icwong/CoopR-S) + [Heroku](http://cooprs.herokuapp.com/)
+[Ruby on Rails] COOR&S // [GitHub](https://github.com/icwong/CoopR-S) + [Heroku](http://cooprs.herokuapp.com/)
 
 [Python] Diamond Treasure Hunter Game // [GitHub](https://github.com/icwong/PythonProjects/blob/master/DiamondTreasureHunter.py)
 
