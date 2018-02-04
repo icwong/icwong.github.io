@@ -3,9 +3,9 @@ layout: default
 is_contact: true
 ---
 
-* Email: [icwong@sfu.ca](mailto:icwong@sfu.ca)
+Email: [icwong@sfu.ca](mailto:icwong@sfu.ca)
 
-* Live: [Burnaby, British Columbia, Canada]()
+Location: [Burnaby, British Columbia, Canada]()
 
 ---
 

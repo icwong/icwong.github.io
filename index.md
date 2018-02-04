@@ -23,7 +23,7 @@ QA Automation Engineer Intern // Java, Selenium, JMeter
 
 <span style="color: #A23E48; font-weight: bold">[React-Native]</span> CryptoCurrency Comparison Analysis App // [GitHub](https://github.com/icwong/CryptocurrencyApp)
 
-<span style="color: #FF8C42; font-weight: bold">[Java + Android Studio]</span>Text Recognition Flash Card Maker App // [GitHub 2](https://github.com/icwong/AndroidTextRecognitionApp) + [GitHub 2](https://github.com/icwong/AndroidQuizApp)
+<span style="color: #FF8C42; font-weight: bold">[Java + Android Studio]</span> Text Recognition Flash Card Maker App // [GitHub 2](https://github.com/icwong/AndroidTextRecognitionApp) + [GitHub 2](https://github.com/icwong/AndroidQuizApp)
 
 <span style="color: #9F86C0; font-weight: bold">[Python + Pandas + Scikit-Learn]</span> Machine Learning Weather Prediction // [GitHub](https://github.com/icwong/weather-observation)
 
