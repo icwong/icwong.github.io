@@ -6,7 +6,7 @@ layout: default
 
 Hello! I am a fourth computer science student at Simon Fraser University.
 
-I enjoy learning about <span style="color: #4ECDC4; font-weight: bold">Data Science</span> and <span style="color: #4ECDC4; font-weight: bold">Software Development</span>.
+I enjoy learning about <span style="color: #49c0c6; font-weight: bold">Data Science</span> and <span style="color: #49c0c6; font-weight: bold">Software Development</span>.
 
 ## Education
 Simon Fraser University - Burnaby, BC  // 2013 - Present (Expected: Dec 2018)
@@ -15,7 +15,7 @@ Computer Science, B.S
 
 ## Work Experience
 
-<img class="work-experience" src="absolute.png"> <a href="https://www.absolute.com/en" style="color: #87BBA2; font-weight: bold">Absolute Software</a> // 2016 - 2017
+<img class="work-experience" src="absolute.png"> <a href="https://www.absolute.com/en" style="color: #57ccb4; font-weight: bold">Absolute Software</a> // 2016 - 2017
 
 QA Automation Engineer Intern // Java, Selenium, JMeter
 
@@ -27,7 +27,7 @@ Text Recognition Flash Card Maker App // [GitHub 2](https://github.com/icwong/An
 
 Machine Learning Weather Prediction // [GitHub](https://github.com/icwong/weather-observation) // <span style="color: #9F86C0; font-weight: bold">Python + Pandas + Scikit-Learn</span>
 
-COOR&S // [GitHub](https://github.com/icwong/CoopR-S) + [Heroku](http://cooprs.herokuapp.com/) // <span style="color: #F45B69; font-weight: bold">Ruby on Rails</span>
+COOR&S // [GitHub](https://github.com/icwong/CoopR-S) + [Heroku](http://cooprs.herokuapp.com/) // <span style="color: #386d75; font-weight: bold">Ruby on Rails</span>
 
 Diamond Treasure Hunter Game // [GitHub](https://github.com/icwong/PythonProjects/blob/master/DiamondTreasureHunter.py) // <span style="color: #E0B1CB; font-weight: bold">Python</span>
 
