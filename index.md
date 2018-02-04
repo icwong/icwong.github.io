@@ -15,7 +15,7 @@ Computer Science, B.S
 
 ## Work Experience
 
-<img class="work-experience" src="absolute.png"> Absolute Software // 2016 - 2017
+<img class="work-experience" src="absolute.png"> <a href="https://www.absolute.com/en" style="color: #679436; font-weight: bold">Absolute Software</span> // 2016 - 2017
 
 QA Automation Engineer Intern // Java, Selenium, JMeter
 
