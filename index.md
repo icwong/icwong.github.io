@@ -6,7 +6,7 @@ layout: default
 
 Hello! I am a fourth computer science student at Simon Fraser University.
 
-I enjoy learning about <span style="color: blue">Data Science</span> and Software Development.
+I enjoy learning about <span style="color: #427AA1; font-weight: bold">Data Science</span> and <span style="color: #427AA1; font-weight: bold">Software Development</span>.
 
 ## Education
 Simon Fraser University - Burnaby, BC  // 2013 - Present (Expected: Dec 2018)
