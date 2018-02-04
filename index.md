@@ -4,27 +4,32 @@ layout: default
 
 ## About Me
 
-
-Hi! I am a fourth year student of B.S. Computer Science at Simon Fraser University.
+Hello! I am a fourth computer science student at Simon Fraser University.
 
 I enjoy learning about Data Science and Software Development.
 
+## Education
+Simon Fraser University - Burnaby, BC  // 2013 - Present (Expected: Dec 2018)
+
+Computer Science, B.S    
+
 ## Work Experience
 
-<img class="work-experience" src="absolute.png">
-Absolute Software // QA Automation Engineer Intern // 2016 - 2017
+<img class="work-experience" src="absolute.png"> Absolute Software // 2016 - 2017
+
+QA Automation Engineer Intern // Java, Selenium, JMeter
 
 ## Sample Projects
 
-CryptoCurrency Comparison Analysis App // [GitHub](https://github.com/icwong/CryptocurrencyApp)
+[React-native] CryptoCurrency Comparison Analysis App // [GitHub](https://github.com/icwong/CryptocurrencyApp)
 
-Text Recognition Flash Card Maker App (TensorFlow) // [GitHub Pt.1](https://github.com/icwong/AndroidTextRecognitionApp) + [GitHub Pt.2](https://github.com/icwong/AndroidQuizApp)
+[Java / Android Studio] Text Recognition Flash Card Maker App// [GitHub 2](https://github.com/icwong/AndroidTextRecognitionApp) + [GitHub 2](https://github.com/icwong/AndroidQuizApp)
 
-Machine Learning Weather Prediction // [GitHub](https://github.com/icwong/weather-observation)
+[Python / Pandas / Scikit-Learn] Machine Learning Weather Prediction // [GitHub](https://github.com/icwong/weather-observation)
 
-COOR&S // [GitHub](https://github.com/icwong/CoopR-S) + [Heroku](http://cooprs.herokuapp.com/)
+[Ruby on Rails ] COOR&S // [GitHub](https://github.com/icwong/CoopR-S) + [Heroku](http://cooprs.herokuapp.com/)
 
-Diamond Treasure Hunter Game // [GitHub](https://github.com/icwong/PythonProjects/blob/master/DiamondTreasureHunter.py)
+[Python] Diamond Treasure Hunter Game // [GitHub](https://github.com/icwong/PythonProjects/blob/master/DiamondTreasureHunter.py)
 
 ## Favorite Educational Articles
 
