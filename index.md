@@ -4,9 +4,9 @@ layout: default
 
 ## About Me
 
-Hello! I am a fourth computer science student at Simon Fraser University.
+Hello! I am a fourth year student studying at Simon Fraser University, majoring in Computer Science.
 
-I enjoy learning about <span style="color: #49c0c6; font-weight: bold">Data Science</span> and <span style="color: #49c0c6; font-weight: bold">Software Development</span>.
+I am most interested in topics within <span style="color: #49c0c6; font-weight: bold">machine learning</span>, <span style="color: #49c0c6; font-weight: bold">software development</span> and <span style="color: #49c0c6; font-weight: bold">mobile development</span>. I work on side projects that deal with these topics to have a better understanding of them.
 
 ## Education
 Simon Fraser University - Burnaby, BC  // 2013 - Present (Expected: Dec 2018)
