@@ -21,7 +21,7 @@ QA Automation Engineer Intern // Java, Selenium, JMeter
 
 ## Sample Projects
 
-CryptoCurrency Comparison Analysis App // [GitHub](https://github.com/icwong/CryptocurrencyApp) // <span style="color: #A23E48; font-weight: bold">React-Native</span>
+Cryptocurrency Neural Networks Prediction Trading App // [GitHub](https://github.com/icwong/CryptocurrencyApp) // <span style="color: #A23E48; font-weight: bold">React-Native</span>
 
 Text Recognition Flash Card Maker App // [GitHub 2](https://github.com/icwong/AndroidTextRecognitionApp) + [GitHub 2](https://github.com/icwong/AndroidQuizApp) // <span style="color: #FF8C42; font-weight: bold">Java + Android Studio</span>
 
